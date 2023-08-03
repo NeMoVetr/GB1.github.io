@@ -1,0 +1,24 @@
+div {
+    padding: 10px;
+    margin: 10px;
+    font: 16pt sans-serif;
+}
+
+p {
+   font: 20pt sans-serif;
+}
+main {
+   text-align: center;
+}
+.advertisement {
+   color: red;
+   padding: 0 auto;
+
+}
+
+header {
+   background-color: antiquewhite;
+}
+img {
+   cursor: pointer
+}
